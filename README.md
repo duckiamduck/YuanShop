@@ -1,1 +1,2 @@
 本项目包含9大电商业务模块，涵盖猜你喜欢、热门推荐、商品分类、商品详情、微信登录、用户管理、地址管理、购物车管理、订单管理等功能，并支持微信登录和支付。
+<img src="https://thumbnail1.baidupcs.com/thumbnail/e67153705v08972f2a5b001cfc0974dc?fid=2538414642-250528-801622495517033&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-z71ozRHSYlvflhEYsiyOVGvLnMc%3d&expires=8h&chkbd=0&chkv=0&dp-logid=184305020963839694&dp-callid=0&time=1709017200&size=c1920_u1080&quality=90&vuk=2538414642&ft=image&autopolicy=1">
