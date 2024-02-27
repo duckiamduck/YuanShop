@@ -1,0 +1,1 @@
+{"version":3,"file":"servicePanel.js","sources":["../../../../../../uniComponent:/RzovZ2l0Q29kZS9oZWltYS1zaG9wL3NyYy9wYWdlcy9nb29kcy9jb21wb25lbnRzL3NlcnZpY2VQYW5lbC52dWU"],"sourcesContent":["import Component from 'G:/gitCode/heima-shop/src/pages/goods/components/servicePanel.vue'\nwx.createComponent(Component)"],"names":[],"mappings":";;;;;;;;;;;;;;AACA,GAAG,gBAAgB,SAAS;"}
